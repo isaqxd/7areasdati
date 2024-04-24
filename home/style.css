@@ -1,0 +1,132 @@
+body {
+  background-color: #2e2c35;
+}
+
+/* header */
+#nav-bar {
+  display: flex;
+  height: 80px;
+  width: 100%;
+  border: 1px solid red;
+  border-bottom: #ffff solid 1px;
+  margin-bottom: 100px;
+}
+.logo {
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 5%;
+  background-image: url(img/logo.jpg);
+  border: 1px solid gray;
+}
+/* fim header */
+
+/* 1ª fileira de cards */
+#line-one{
+  margin: 0;
+  padding: 0;
+  margin-bottom: 79.81px;
+}
+#card-one {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.SI {
+  width: 257px;
+  height: 174.77px;
+  border: solid 1px white;
+  background: white;
+  background-image: url(img/segurançadainformação.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  border-radius: 50px;
+  margin-right: 134px;
+}
+.analise-bi {
+  width: 257px;
+  height: 174.77px;
+  border: solid 1px white;
+  background: white;
+  border-radius: 50px;
+  margin-right: 134px;
+}
+.analise-dados {
+  width: 257px;
+  height: 174.77px;
+  border: solid 1px white;
+  background: white;
+  border-radius: 50px;
+}
+#text-line-one {
+  display: flex;
+  font-family: "Jockey One", sans-serif;
+  color: #ffff;
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  justify-content: left;
+}
+.txt1 {
+  margin: 0;
+  padding: 0;
+  margin-left: 392px;
+  margin-right: 200px;
+}
+.txt2 {
+  margin: 0;
+  padding: 0;
+  margin-right: 250px;
+}
+.txt3{
+  margin: 0;
+  padding: 0;
+}
+/* fim 1ª fileira de cards */
+
+/* 2ª fileira de cards */
+#line-two-card {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  margin-bottom: 123.23px;
+}
+.gestao-projetos {
+  width: 257px;
+  height: 174.77px;
+  border: solid 1px white;
+  background: white;
+  border-radius: 50px;
+  margin-right: 134px;
+}
+.analise-ux {
+  width: 257px;
+  height: 174.77px;
+  border: solid 1px white;
+  background: white;
+  border-radius: 50px;
+  margin-right: 134px;
+}
+.program {
+  width: 257px;
+  height: 174.77px;
+  border: solid 1px white;
+  background: white;
+  border-radius: 50px;
+}
+/* fim 2ª fileira de cards */
+#line-three-card {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.qualidade-sft {
+  width: 257px;
+  height: 174.77px;
+  border: solid 1px white;
+  background: white;
+  border-radius: 50px;
+}
