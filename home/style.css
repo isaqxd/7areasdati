@@ -21,10 +21,11 @@ body {
 /* fim header */
 
 /* 1ª fileira de cards */
-#line-one{
+#line-one {
   margin: 0;
   padding: 0;
   margin-bottom: 79.81px;
+  border: solid 1px white;
 }
 #card-one {
   display: flex;
@@ -35,7 +36,6 @@ body {
 .SI {
   width: 257px;
   height: 174.77px;
-  border: solid 1px white;
   background: white;
   background-image: url(img/segurançadainformação.png);
   background-repeat: no-repeat;
@@ -47,8 +47,11 @@ body {
 .analise-bi {
   width: 257px;
   height: 174.77px;
-  border: solid 1px white;
   background: white;
+  background-image: url(img/businessintelligence.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
   border-radius: 50px;
   margin-right: 134px;
 }
@@ -57,6 +60,10 @@ body {
   height: 174.77px;
   border: solid 1px white;
   background: white;
+  background-image: url(img/analisededados.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
   border-radius: 50px;
 }
 #text-line-one {
@@ -79,7 +86,7 @@ body {
   padding: 0;
   margin-right: 250px;
 }
-.txt3{
+.txt3 {
   margin: 0;
   padding: 0;
 }
@@ -117,6 +124,8 @@ body {
   border-radius: 50px;
 }
 /* fim 2ª fileira de cards */
+
+/* 3ª fileira de cards */
 #line-three-card {
   display: flex;
   justify-content: center;
@@ -130,3 +139,4 @@ body {
   background: white;
   border-radius: 50px;
 }
+/* 3ª fileira de cards */
