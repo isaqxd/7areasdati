@@ -74,19 +74,26 @@ body {
   margin: 0;
   padding: 0;
   justify-content: left;
+
 }
 .txt1 {
+  color: #ffff;
+  text-decoration: none;
   margin: 0;
   padding: 0;
   margin-left: 392px;
   margin-right: 200px;
 }
 .txt2 {
+  color: #ffff;
+  text-decoration: none;
   margin: 0;
   padding: 0;
   margin-right: 250px;
 }
 .txt3 {
+  color: #ffff;
+  text-decoration: none;
   margin: 0;
   padding: 0;
 }
