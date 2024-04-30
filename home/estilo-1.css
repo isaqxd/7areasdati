@@ -1,0 +1,42 @@
+* {
+    color: white;
+    font-family: "Jockey One", sans-serif
+}
+.cabeçalho{
+    display: flex;
+    grid-row: auto;
+    background-color: #2e2c35;
+    height: 10rem;
+    border-bottom: 5px solid white
+}
+.div-geral{
+    display: flex;
+    flex-direction: column;
+    background-color: #2e2c35;
+}
+.div-titulo{
+    text-decoration: underline;
+    font-size: xx-large;
+}
+.div-esquerda{
+    padding-left: 8rem;
+    width: 30%;
+}
+.texto-esquerda{
+    text-align: left;
+    font-size: x-large;
+    font-size: 60px;
+}
+.imagem-esquerda{
+    position: absolute;
+    mix-blend-mode: difference;
+    bottom: 0px;
+    left: -55px;
+}
+.div-direita{
+    width: 70%;
+}
+.container-direita{
+    font-size: x-large; 
+    font-size: 45px;   
+}
