@@ -11,14 +11,13 @@ body {
   background-position: -200px 550px;
   background-size: 30%;
 }
-#cabecalho{
-    display: flex;
-    width: 100%;
-    align-items: center;
-    flex-direction: row;
+#cabecalho {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: row;
 }
-#logo{
-
+#logo {
 }
 .logo {
   height: 63.36px;
@@ -28,12 +27,12 @@ body {
 }
 
 /* TESTE */
-.oi{
+.head-bt {
   display: flex;
   margin-left: 800px;
   margin-right: 20px;
 }
-.bi-b{
+.bt-cabecalho {
   height: 40px;
   width: 60px;
   border-radius: 50px;
@@ -43,30 +42,13 @@ body {
   justify-content: center;
   align-content: center;
 }
-#bi-b{
+#bt-cabecalho {
   display: flex;
   flex-direction: column;
-  text-align: center;
-
+  align-items: center;
+  margin-right: 30px;
 }
 /* TESTE */
-.ad-b{
-  height: 40px;
-  width: 60px;
-  border-radius: 50px;
-  background-color: white;
-  display: flex;
-  overflow: hidden;
-  justify-content: center;
-  align-content: center;
-}
-#ad-b{
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-
-}
-
 #numero-logo {
   font-size: 80px;
 }
