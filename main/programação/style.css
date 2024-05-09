@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: "Jockey One", sans-serif;
+  }
+  body {
+    background-color: #2e2c35;
+    background-image: url(../img/analise-de-dados.png);
+    background-repeat: no-repeat;
+    background-position: -200px 700px;
+    background-size: 30%;
+  }
+  #cabecalho {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: row;
+  }
+  #logo {
+  }
+  .logo {
+    height: 63.36px;
+    width: 86.18px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* TESTE */
+  .head-bt {
+    display: flex;
+    margin-left: 800px;
+    margin-right: 20px;
+  }
+  .bt-cabecalho {
+    height: 40px;
+    width: 60px;
+    border-radius: 50px;
+    background-color: white;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-content: center;
+  }
+  #bt-cabecalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
+  }
+  /* TESTE */
+  #numero-logo {
+    font-size: 80px;
+  }
+  
+  #texto-logo {
+    font-size: 20px;
+  }
+  
+  #linha {
+    border-bottom: 1px solid white;
+    padding-top: 9px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  .conteudo {
+    display: flex;
+    width: 100%;
+    height: 100%;
+  }
+  #container-left {
+    display: flex;
+    flex-direction: column;
+    width: 34%;
+    height: 100%;
+    margin-left: 61px;
+    margin-right: 80px;
+  }
+  .parag {
+    font-size: 30px;
+    margin-top: 50px;
+    text-decoration: underline;
+  }
+  .text {
+    margin-top: 28px;
+    font-size: 33px;
+  }
+  #container-right {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+  }
+  .primo {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    font-size: 22px;
+    text-align: center;
+    align-items: center;
+  }
+  .primo p {
+    margin-bottom: 20px;
+  }
+  .img {
+    border-radius: 15px;
+    border: black 1px solid;
+    margin-top: 20px;
+    width: 90%;
+    margin-bottom: 15px;
+  }
