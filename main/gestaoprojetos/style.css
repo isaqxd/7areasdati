@@ -6,9 +6,9 @@
 }
 body {
   background-color: #2e2c35;
-  background-image: url(img/seguranca-da-informacao.png);
+  background-image: url(../img/gestao-de-projetos.png);
   background-repeat: no-repeat;
-  background-position: -200px 550px;
+  background-position: -230px 530px;
   background-size: 30%;
 }
 #cabecalho {
@@ -73,7 +73,7 @@ a {
 #container-left {
   display: flex;
   flex-direction: column;
-  width: 34%;
+  width: 41%;
   height: 100%;
   margin-left: 61px;
   margin-right: 80px;
@@ -96,7 +96,7 @@ a {
 .primo {
   display: flex;
   flex-direction: column;
-  margin-top: 97px;
+  margin-top: 120px;
   font-size: 22px;
   text-align: center;
   align-items: center;

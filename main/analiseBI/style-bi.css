@@ -6,7 +6,7 @@
   }
   body {
     background-color: #2e2c35;
-    background-image: url(img/seguranca-da-informacao.png);
+    background-image: url(../img/business-intelligence.png);
     background-repeat: no-repeat;
     background-position: -200px 550px;
     background-size: 30%;
@@ -80,7 +80,7 @@
   }
   .parag {
     font-size: 30px;
-    margin-top: 61px;
+    margin-top: 50px;
     text-decoration: underline;
   }
   .text {
@@ -96,7 +96,7 @@
   .primo {
     display: flex;
     flex-direction: column;
-    margin-top: 97px;
+    margin-top: 50px;
     font-size: 22px;
     text-align: center;
     align-items: center;
@@ -107,7 +107,7 @@
   .img {
     border-radius: 15px;
     border: black 1px solid;
-    margin-top: 40px;
+    margin-top: 20px;
     width: 90%;
     margin-bottom: 15px;
   }
