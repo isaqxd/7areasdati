@@ -7,6 +7,7 @@
 
 body {
   background-color: #2e2c35;
+
 }
 
 #logo {
@@ -71,13 +72,13 @@ img {
 .cartoes-1 {
   display: flex;
   justify-content: space-evenly;
-  padding: 60px 0 80px 0;
+  padding: 60px 0 70px 0;
 }
 
 .cartoes-2 {
   display: flex;
   justify-content: space-evenly;
-  padding: 0px 0 80px 0;
+  padding: 0px 0 70px 0;
 }
 
 .cartoes-3 {
